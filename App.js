@@ -8,7 +8,6 @@
 
 import React from 'react';
 import {
-  SafeAreaView,
   Text,
   View,
 } from 'react-native';
@@ -17,11 +16,9 @@ import {
 
 function App () {
   return (
-    <SafeAreaView>
-      <View style={{display:"flex", height:"100%", justifyContent: "center", alignItems: "center"}} >
-        <Text>Hello world!</Text>
-      </View>
-    </SafeAreaView>
+    <View style={{display:"flex", height:"100%", justifyContent: "center", alignItems: "center"}} >
+      <Text>Hello world!</Text>
+    </View>
   );
 };
 

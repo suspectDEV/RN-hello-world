@@ -17,7 +17,7 @@ import {
 function App () {
   return (
     <View style={{display:"flex", height:"100%", justifyContent: "center", alignItems: "center"}} >
-      <Text>Hello world!</Text>
+      <Text>Hello grubbe!</Text>
     </View>
   );
 };

@@ -10,8 +10,8 @@ const App = () => {
   return (
     <>
     {/* <ViewConcept /> */}
-    {/* <TextConcept /> */}
-    <ImageConcept />
+    <TextConcept />
+    {/* <ImageConcept /> */}
     </>
   );
 
